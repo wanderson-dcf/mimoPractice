@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+.highlight {
+    background-color: yellow;
+}
+.bold {
+    font-weight: bold;
+}
+.underline {
+    text-decoration: underline;
+}
+.styleWidth {
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+}
+.styleToggle {
+    width: 500px;
+    margin: auto;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: yellow;
+    text-decoration: underline;
+
+}
+button {
+    margin: 30px;
+    padding: 3px 12px 3px 12px;
+    border-radius: 20px;
+    font-weight: bold;
+    border: 0px solid;
+    outline: none;
+    background-color: #D9E8FB;
+    color: #4D4D87;
+}
